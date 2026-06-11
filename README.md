@@ -19,7 +19,11 @@ A macOS desktop app that converts PowerPoint (`.pptx`) and PDF files into clean,
 
 ## Screenshots
 
-> *Coming soon*
+### Welcome Screen
+![Welcome Screen](screenshots/Welcome%20screenshot.png)
+
+### Main App
+![App Screenshot](screenshots/App_Screenshot.png)
 
 ---
 
